@@ -1,4 +1,6 @@
 public class HelloWorld3 {
+
+
     public static void main(String[] args) {
         int a = 2;
         int b = 3;
@@ -10,6 +12,7 @@ public class HelloWorld3 {
 
         System.out.println("Площадь треугольника " + square);
         System.out.println("Перметр треугольника " + perim);
+
 
     }
 }
