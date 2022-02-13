@@ -2,7 +2,7 @@ package by.tut.epam.kir.task3;
 
 import java.util.Scanner;
 
-public class Task3 {
+public class Task3  {
     int a = 0;
     int b = 0;
     double square;
